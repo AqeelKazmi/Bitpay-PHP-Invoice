@@ -54,6 +54,6 @@ These first two scripts need to be executed only once.
   3. You can set your invoice detail in this script like  owner email[Invoice generator], buyer email, fiat currency name, price, description.
 
 
-
+![image](https://user-images.githubusercontent.com/30657768/30214948-ade7e526-94c7-11e7-8932-dbe97711cf42.png)
 
 
