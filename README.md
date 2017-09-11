@@ -55,5 +55,5 @@ These first two scripts need to be executed only once.
 
 
 ![image](https://user-images.githubusercontent.com/30657768/30214948-ade7e526-94c7-11e7-8932-dbe97711cf42.png)
-![image](https://user-images.githubusercontent.com/30657768/30260942-9c164f36-96e3-11e7-827a-635bc0bd9022.png)
+![image](https://user-images.githubusercontent.com/30657768/30261093-6a9f6ff4-96e4-11e7-95de-faf6258a3367.png)
 ![q](https://user-images.githubusercontent.com/30657768/30215349-2c55367e-94c9-11e7-9524-a1a90d029e30.png)
