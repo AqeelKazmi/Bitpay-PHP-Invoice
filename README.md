@@ -53,6 +53,7 @@ These first two scripts need to be executed only once.
      $token->setToken('paste the token number which is generated from running 002_pair.php file');
   3. You can set your invoice detail in this script like  owner email[Invoice generator], buyer email, fiat currency name, price, description.
 
-![image](https://user-images.githubusercontent.com/30657768/30214948-ade7e526-94c7-11e7-8932-dbe97711cf42.png)
+![1](https://user-images.githubusercontent.com/30657768/30322655-a71f83a2-97d3-11e7-9049-4e451ee13f63.png)
 ![bit](https://user-images.githubusercontent.com/30657768/30261138-918e887a-96e4-11e7-94f4-81679fba0fdd.png) 
-![q](https://user-images.githubusercontent.com/30657768/30215349-2c55367e-94c9-11e7-9524-a1a90d029e30.png)
+![3](https://user-images.githubusercontent.com/30657768/30322651-a69f6910-97d3-11e7-99e0-7c680e04156e.png)
+
